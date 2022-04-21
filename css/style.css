@@ -1,0 +1,131 @@
+header {
+    height: 100vh;
+    background-image:
+        url(../images/desktop/image-header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+header .nav-item a:hover{
+    background-color: #6ed0ff;
+    border-radius: 15px;
+   
+}
+header .navv{
+background-color: white;
+border-radius: 15px;
+
+}
+header .hero {
+    position: relative;
+    margin-right: 0;
+    top: 150px;
+}
+header .hero h1{
+    font-family: 'PT Serif', serif;
+    
+}
+#arrow{
+    cursor: pointer;
+}
+.row{
+margin: 0;
+font-family: 'PT Serif', serif;
+
+}
+.transform { 
+    background-color:#fffbf8 ;
+}
+
+.transform .right{ 
+    height: 75vh;
+    background-image: url(../images/desktop/image-transform.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.transform h4 {
+    font-size: 20px;}
+    .transform h4:hover {
+
+        border-bottom: 8px solid #ffd300;
+            width: fit-content;
+            padding: 0 10px;
+            border-radius: 5px;}
+.stand .left{ 
+    position: relative;
+    height: 75vh;
+    background-image: url(../images/desktop/image-stand-out.jpg);
+    background-position: center;
+    background-size: cover;
+    left: 0px;
+
+}
+.stand { 
+    background-color:#fffbf8 ;
+}
+.stand h4 {
+font-size: 20px;
+}
+.stand h4:hover {
+
+border-bottom: 8px solid #fe6f61;
+    width: fit-content;
+    padding: 0 10px;
+    border-radius: 5px;}
+    
+    .photographers .left{
+        height: 75vh;
+        background-image: url(../images/desktop/image-graphic-design.jpg);
+        background-position: center;
+        background-size: cover;
+        color:#2f6156;
+font-family: 'PT Serif', serif;
+
+    }
+    .photographers .right{
+        height: 75vh;
+        background-image: url(../images/desktop/image-photography.jpg);
+        background-position: center;
+        background-size: cover;
+        color:#205469;
+font-family: 'PT Serif', serif;
+    }
+    .photographers .down{
+        position: absolute;
+        bottom: 30px;
+    }
+    .client{
+    background-color:#fffbf8 ;
+
+    }
+    .client h3{
+        color: #a7a8ac;
+font-family: 'PT Serif', serif;
+text-align: center;
+font-size: 25px;
+letter-spacing: 5px;
+    }
+    .client .testimonials h5{
+        font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+    footer{
+        background-color: #95d4c9
+    }
+    .foot ul li a{
+        color:#2f6156;
+     
+    }
+    .foot ul li a:hover{
+        color:white;
+     
+    }
+    .sicail-nav i{
+        font-size: 25px;
+        color:#2f6156;
+        cursor: pointer;
+    }
+    .sicail-nav i:hover{
+        color:white;
+
+    }
